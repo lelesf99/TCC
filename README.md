@@ -10,7 +10,7 @@
     - ..a aplicação de Intervenções Terapêuticas
 --- 
 - Acessibilidade e Interfaces Autoadaptativas
-
+---
 ## Possíveis Temas
 - Tecnologias Assistivas para Professores PcD
     - [E-Learning: A Tool for Teachers with a Disability](https://doi.org/10.1007/978-3-540-89350-9_17)
@@ -36,4 +36,6 @@
     - [Personalização de Interfaces Adaptativas Baseada em Análise de Dados do Usuário: uma Revisão Sistemática](https://doi.org/10.5753/ihc.2025.10911)
     - [Applying Machine Learning in Self-adaptive Systems: A Systematic Literature Review](https://doi.org/10.1145/3469440)
     - [Integrated model-driven development of self-adaptive user interfaces](https://doi.org/10.1007/s10270-020-00777-7)
+---
 ### Já existe bastante artigos e revisões, mas sinto que pode ter alguma especifidade com lacuna que pode ser explorada
+---
