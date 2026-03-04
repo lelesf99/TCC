@@ -13,12 +13,13 @@
 
 ## Possíveis Temas
 - Tecnologias Assistivas para Professores PcD
+    - [E-Learning: A Tool for Teachers with a Disability](https://doi.org/10.1007/978-3-540-89350-9_17)
     - [Educando pela diferença: a importância do professor com deficiência em sala de aula](https://doi.org/10.18379/2176-4891.2020v2p.60)
     - [Teacher with disabilities: a literature review](https://doi.org/10.1080/13603116.2020.1776779)
     - [An Inclusive Workplace Approach to Disability through Assistive Technologies: A Systematic Review and Thematic Analysis of the Literature](https://doi.org/10.3390/soc13110231)
     - [Revisão Sistemática sobre Tecnologia Assistiva e Deficiência Física na Área da Educação](https://doi.org/10.22476/revcted.v6.id382)
 ---
-### Obs.: Encontrei apenas livros e capitulos de livros sobre estudos de caso de professores PcD. Muito pouco sobre o tema "professor PcD". Tenho medo de não ter volume pra montar uma revisão. Sobre tecnologias assistivas então, penso haver pouquívssimas propostas com essa especificidade de "para professores PcD"
+### Obs.: Tema muito bom para ser explorado, foi muito pouco explorado até agora, tem estudos de caso, tem estudos relacionados mas pouca coisa específica para Professores PcD
 ---
 - Jogos Sérios em salas de aula
     - [Serious Games: Incorporating Video Games in the Classroom](https://www.learntechlib.org/p/103749/)
