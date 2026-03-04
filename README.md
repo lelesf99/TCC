@@ -2,7 +2,7 @@
 ## Palavras Chave
 - Tecnologias Assistivas para Professores PcD
 ---
-- Jogos Sérios **Serious games** para..
+- Jogos Sérios **(Serious games)** para..
     - ..o ensino
     - ..o ensino de Ciências, Tecnologia, Engenharia e Matemática **STEM**
     - ..o ensino de Programação
